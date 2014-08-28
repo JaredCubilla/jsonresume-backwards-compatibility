@@ -1,0 +1,35 @@
+body {
+	font-size: 62.5%;
+	background-color: #ecf0f1;
+	font-family: Ubuntu;
+}
+
+.container {
+	margin: 0 auto;
+	width: 50em;
+	margin-top: 2.5em;
+}
+
+.button {
+	margin: 10px 0px;
+	background-color: #FAF07B;
+	padding: 5px;
+	width: 10em;
+	text-align:center;
+	font-weight:bold;
+	font-size: 1.6em;
+	-webkit-user-select: none;
+	-moz-user-select:none;
+	cursor:pointer;
+}
+
+textarea {
+	height: 25em;
+	font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+	font-size: 1.2em;
+	width: 50em;
+}
+
+p {
+	font-size: 1.6em;
+}
