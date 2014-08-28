@@ -14,5 +14,6 @@ It's a work in progress, so bugs may occur. Please Github's [built-in bug tracke
 
 ## TODO
 
-- [ ] make volunteer and languages optional
+- [ ] make ~~volunteer and languages~~ everything a choice
 - [ ] add support for `resume.json` files created in the middle of the initial schema and the 0.0.0 release
+- [ ] make use of the HTML5 file API rather than just copy and paste
